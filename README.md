@@ -12,7 +12,7 @@
 <p align="center">
 
   <a href="#projects">
-    <img src="https://img.shields.io/badge/%E2%9A%A1%20TRY!-FFD6A5?style=for-the-badge&labelColor=FFEACD&color=FFC58F">
+    <img src="https://img.shields.io/badge/%E2%9A%A1%20TRY!-FFD6A5?style=for-the-badge&labelColor=FFEACD&color=FFC58F"> 
   </a>
 
   <a href="#focus">
@@ -45,6 +45,11 @@
 
 <p align="center">◦•◦•◦••◦•◦•◦</p>
 
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mysql,mongodb,python,c,cpp,git,github,figma,vercel,netlify,aws" height="40" />
+  </marquee>
+</p>
 
 ### 🧰 Tech Stack
 
