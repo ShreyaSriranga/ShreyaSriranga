@@ -53,14 +53,10 @@
 
 ### 🧰 Tech Stack
 
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,canva" />
+  <img src="./assets/tech/spotlight.svg" width="560" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,cpp,c,mysql,mongodb,firebase,git,github,postman,vercel,netlify,aws,raspberrypi,arduino" />
-</p>
 
 ---
 
