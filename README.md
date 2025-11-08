@@ -37,13 +37,13 @@
 ### 🌿Get in Touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/shreya-sriranga-08b982269" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+  <a href="https://instagram.com/shreya_sriranga/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+  <a href="mailto:shreyasriranga1024@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
 </p>
