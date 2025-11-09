@@ -54,11 +54,9 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <object type="image/svg+xml"
-          data="https://raw.githubusercontent.com/ShreyaSriranga/ShreyaSriranga/main/assets/tech/spotlight_final.svg"
-          width="560">
-  </object>
+  <img src="assets/tech/techstack.gif" width="560" />
 </p>
+
 
 ---
 
