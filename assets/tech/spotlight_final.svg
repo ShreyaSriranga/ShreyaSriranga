@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="560" height="140" viewBox="0 0 560 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<style>.icon{transform-box:fill-box;transform-origin:center;}</style>
+
+    <image class="icon" x="248" y="36" width="64" height="64" href="https://raw.githubusercontent.com/ShreyaSriranga/ShreyaSriranga/main/assets/tech/icons/icon1%5B1%5D.svg">
+        <animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="0.0s" fill="freeze"/>
+    </image>
+
+
+    <image class="icon" x="248" y="36" width="64" height="64" href="https://raw.githubusercontent.com/ShreyaSriranga/ShreyaSriranga/main/assets/tech/icons/icon2%5B1%5D.svg">
+        <animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="1.2s" fill="freeze"/>
+    </image>
+
+
+    <image class="icon" x="248" y="36" width="64" height="64" href="https://raw.githubusercontent.com/ShreyaSriranga/ShreyaSriranga/main/assets/tech/icons/icon3%5B1%5D.svg">
+        <animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="2.4s" fill="freeze"/>
+    </image>
+
+
+    <image class="icon" x="248" y="36" width="64" height="64" href="https://raw.githubusercontent.com/ShreyaSriranga/ShreyaSriranga/main/assets/tech/icons/icon4%5B1%5D.svg">
+        <animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="3.5999999999999996s" fill="freeze"/>
+    </image>
+
+
+    <image class="icon" x="248" y="36" width="64" height="64" href="https://raw.githubusercontent.com/ShreyaSriranga/ShreyaSriranga/main/assets/tech/icons/icon5%5B1%5D.svg">
+        <animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="4.8s" fill="freeze"/>
+    </image>
+
+
+    <image class="icon" x="248" y="36" width="64" height="64" href="https://raw.githubusercontent.com/ShreyaSriranga/ShreyaSriranga/main/assets/tech/icons/icon6%5B1%5D.svg">
+        <animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="6.0s" fill="freeze"/>
+    </image>
+
+
+    <image class="icon" x="248" y="36" width="64" height="64" href="https://raw.githubusercontent.com/ShreyaSriranga/ShreyaSriranga/main/assets/tech/icons/icon7%5B1%5D.svg">
+        <animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="7.199999999999999s" fill="freeze"/>
+    </image>
+
+
+    <image class="icon" x="248" y="36" width="64" height="64" href="https://raw.githubusercontent.com/ShreyaSriranga/ShreyaSriranga/main/assets/tech/icons/icon8%5B1%5D.svg">
+        <animate attributeName="opacity" values="0;1;0" dur="1.2s" begin="8.4s" fill="freeze"/>
+    </image>
+
+<animate attributeName="visibility" from="hidden" to="visible" begin="9.6s" dur="0.1s" repeatCount="indefinite"/>
+</svg>
